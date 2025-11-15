@@ -18,33 +18,34 @@ This repository is the **starter** for your End Semester Project submission in G
 
 ## 📁 Repository Structure
 
-* Describe your repository structure here. Explain about overall code organization.
-
+* I submmited total three file(2 ipynb files and 1 pdf file).
 ---
 
 ## 📦 Installation & Dependencies
-
-* Mention all the related instructions for installation of related packages for running your code here.
+* I use packages are numpy , pandas , time , sklearn metrices(accuaracy , F1 score).
 
 ---
 
 ## ▶️ Running the Code
 
-All experiments should be runnable from the command line **and** reproducible in the notebook.
-
-### A. Command-line (recommended for grading)
-
-* Mention the instructions to run you .py files.
+* You can directly run the main.ipynb file and algorithm.ipynb
+* And also run time of algorithm.ipynb file is less than 5 mintues 
   
 ---
 
 ## You can further add your own sections/titles along with corresponding contents here:
 
+--> I totally implemented four algorithms(Logistic , KNN , SVM , XGBoost).
+
+-->But in main.ipynb file  I implement only three algorithms . Because , the XGBoost algorithm algorithm is exceeds the 5 min.
+
+
+
 ---
 
 ## 🧾 Authors
 
-**<Name, Roll No.>**, IIT Madras (2025–26)
+M.sai jagadeesh , DA24B013, IIT Madras (2025–26)
 
 
 ## Best Practices:
